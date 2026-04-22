@@ -1,0 +1,9 @@
+{
+  "name": "devproject",
+  "version": "1.0.0",
+  "description": "Internal web dev project",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  }
+}
